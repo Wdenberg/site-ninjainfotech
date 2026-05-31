@@ -3,14 +3,11 @@
   "cleanUrls": true,
   "rewrites": [
     {
-      "source": "/api/(.*)",
+      "source": "/api/:path*",
       "destination": "/api/index"
     },
     {
-      "handle": "filesystem"
-    },
-    {
-      "source": "/(.*)",
+      "source": "/((?!api|assets|images|src|favicon|.*\\..*).*)",
       "destination": "/index.html"
     }
   ]
