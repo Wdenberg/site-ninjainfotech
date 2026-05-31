@@ -1,3 +1,5 @@
+
+/*
 import express from "express";
 import path from "path";
 import dotenv from "dotenv";
@@ -183,3 +185,4 @@ Responda sempre em Português do Brasil de forma concisa. Se o usuário estiver 
 startServer().catch((error) => {
   console.error("ERRO CRÍTICO ao iniciar o servidor ninja:", error);
 });
+*/
