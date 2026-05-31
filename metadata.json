@@ -1,0 +1,6 @@
+{
+  "name": "NINJA INFOTECH",
+  "description": "Assistência técnica especializada em hardware de alta performance: placas de vídeo, notebooks, placas-mãe e videogames, com interface interativa e assistente inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
